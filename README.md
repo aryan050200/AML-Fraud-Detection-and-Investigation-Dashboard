@@ -66,23 +66,23 @@ LICENSE
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-## Executive Overview
+### Executive Overview
 
-![Executive Overview](Power%20BI/Executive%20Overview.png)
-
----
-
-## ML & Anomaly Analytics
-
-![ML & Anomaly Analytics](Power%20BI/ML%20%26%20Anomaly%20Analytics.png)
+![Executive Overview](Executive%20Overview.png)
 
 ---
 
-## Risk Investigation
+### ML & Anamoly Analytics
 
-![Risk Investigation](Power%20BI/Risk%20Investigation.png)
+![ML & Anamoly Analytics](ML%20%26%20Anamoly%20Analytics.png)
+
+---
+
+### Risk Investigation
+
+![Risk Investigation](Risk%20Investigation.png)
 
 ---
 
