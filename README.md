@@ -70,19 +70,19 @@ LICENSE
 
 ## Executive Overview
 
-![Executive Overview](Power%20BI/Executive%20Overview.jpg)
+![Executive Overview](Power%20BI/Executive%20Overview.png)
 
 ---
 
 ## ML & Anomaly Analytics
 
-![ML & Anomaly Analytics](Power%20BI/ML%20%26%20Anomaly%20Analytics.jpg)
+![ML & Anomaly Analytics](Power%20BI/ML%20%26%20Anomaly%20Analytics.png)
 
 ---
 
 ## Risk Investigation
 
-![Risk Investigation](Power%20BI/Risk%20Investigation.jpg)
+![Risk Investigation](Power%20BI/Risk%20Investigation.png)
 
 ---
 
